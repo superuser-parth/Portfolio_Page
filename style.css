@@ -1,0 +1,113 @@
+body{
+    background-color: #000;
+}
+
+
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+hr.new1 {
+    display: flex;
+    margin-top: 3%;
+    border-top: 1px solid rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+    opacity: 1;
+  }
+  
+.name{
+    color:rgb(232, 232, 232) ;
+    margin-top: 3%;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: monospace;
+}
+
+.introinfo{
+    margin-top: 0.7%;
+    text-align: center;
+    color: rgb(210, 210, 210);
+    font-size: large;
+    font-family: monospace;
+}
+
+.sec{
+    color:rgb(232, 232, 232) ;
+    font-size: 35px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: monospace;
+}
+
+.card{
+    color: rgb(232, 232, 232);
+    background-color: rgb(40, 40, 40);
+    font-family: monospace;
+}
+
+hr.new2{
+    margin-top: 3%;
+    border-top: 2px solid rgb(255, 255, 255);
+    margin-left: 25%;
+    margin-right: 25%;
+    opacity: 0.4;
+}
+
+.container2{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.card1{
+    color: rgb(232, 232, 232);
+    background-color: rgb(0, 0, 0);
+    font-family: monospace;
+}
+
+.card1-text{
+    color: rgb(127, 127, 127);
+    
+}
+
+
+.container3{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.vl {
+    border-left: 1px solid rgb(127, 127, 127);
+    height: 250px;
+    
+  }
+
+  .container4{
+    display: flex;
+    justify-content: space-evenly;
+   
+    
+}
+
+  .links{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.logo{
+    width: 10%;
+    height: 10%;
+}
+
+.footlink{
+   max-width: 20%;
+   max-height: 20%; 
+}
